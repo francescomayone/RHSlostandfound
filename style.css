@@ -187,7 +187,7 @@ h3{
 		flex-direction: column;
 	}
 }
-/*------- Locatrion ------*/
+/*------- Location ------*/
 .location{
 	width: 80%;
 	margin: auto;
@@ -199,7 +199,7 @@ h3{
 	height: 460px;
 }
 footer{
-		width: 100%;
+	width: 100%;
 	position: fixed;
 	overflow: hidden;
 	background-color: #f44336;
@@ -210,4 +210,13 @@ footer{
 	color: #fff;
 	top: 0;
 	z-index: 100;
+}
+/* Login CSS */
+#login-bg{
+	overflow: hidden;
+	height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size:  100%;
+    opacity: 0.75;
 }
